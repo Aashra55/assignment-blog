@@ -4,7 +4,7 @@ export function Footer(){
     return(
         <div className="footer">
             <div className="footer-top">
-                <h1>Blog Website</h1>
+                <h1>Blogs</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quos impedit enim <br />quaerat atque, laboriosam fugit velit delectus quibusdam sit libero quidem, perspiciatis cum.<br /></p>
             </div>
             <div className="footer-bottom">

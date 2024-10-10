@@ -5,8 +5,8 @@ export default function ArticleTwo(){
         <div>
             <Header/>
             <div className="article">
-                <div className="article-image image-three"></div>
-                <div className="article-description">
+                <div className="article-image image-three slide-top"></div>
+                <div className="article-description slide-left">
                     <h1>Effective Scheduling and Planning</h1>
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa officia voluptate, ex vitae consequuntur at eligendi corrupti quibusdam aliquid quae ea voluptas tempore laudantium enim ratione minima veniam. Odit, nulla?
